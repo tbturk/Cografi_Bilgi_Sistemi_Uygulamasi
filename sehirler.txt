@@ -1,0 +1,3 @@
+26,Eskisehir,IA,ankara,afyon,bursa
+36,ankara,IA,eskisehir,afyon,malatya
+34,istanbul,MA,kocaeli,kirklareli,edirne
