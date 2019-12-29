@@ -1,9 +1,10 @@
 # depslib dependency file v1.0
-1576584614 source:c:\users\bthn0\desktop\github\pro-lab-1.3\main.c
+1577620248 source:c:\users\bthn0\desktop\github\pro-lab-1.3\main.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
 	<math.h>
 	<conio.h>
 	<time.h>
+	<ctype.h>
 
